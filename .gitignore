@@ -1,0 +1,6 @@
+```gitignore
+# Ignore virtual environment folder
+.venv/
+
+# Ignore dataset folder
+Dataset/
